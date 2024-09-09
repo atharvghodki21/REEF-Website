@@ -1,2 +1,3 @@
 # REEF-Website-Updated
-This is Updated REEF Website
+This is Website for REEF Club. 
+REEF stands for Shri Randeobaba college Engineers for Environment Forum
